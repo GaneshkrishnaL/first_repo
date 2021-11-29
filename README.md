@@ -1,2 +1,2 @@
-# first_repo
+# workshop_github
 github workshop by apssdc
